@@ -1,0 +1,1 @@
+Esse programa cria uma conta em um Banco, onde é possível alterar o nome de usuário e caso o valor que deseja sacar seja menor que o saldo em conta, será possível fazer um deposito(geralmente o valor da taxa de saque) para concluir o saque.
