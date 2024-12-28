@@ -1,2 +1,10 @@
-# Projetos-Faculdade
-Esse repósitório foi criado com o intuito de alocar todos os projetos que eu for fazendo na faculdade. Assim, ajudando no meu aprendizado e dúvidas de projetos passados que forem surgindo com o tempo. Então você pode encontrar trabalhos feitos com linguagens variadas.
+# Projetos da Faculdade - Ciências da Computação
+
+Este repositório contém os projetos e atividades desenvolvidos ao longo do curso de **Ciências da Computação**. Servindo como backup e material de estudo futuro.
+
+
+## 💻 Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
